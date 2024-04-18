@@ -1,0 +1,66 @@
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.deps.json
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.pdb
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Domain.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Domain.pdb
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.csproj.AssemblyReference.cache
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.AssemblyInfoInputs.cache
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.AssemblyInfo.cs
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.csproj.CoreCompileInputs.cache
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirt.5895A5F5.Up2Date
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\refint\LojaVirtual.Infra.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.pdb
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\ref\LojaVirtual.Infra.dll
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.deps.json
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.dll
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.pdb
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Domain.dll
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Domain.pdb
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.csproj.AssemblyReference.cache
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.GeneratedMSBuildEditorConfig.editorconfig
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.AssemblyInfoInputs.cache
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.AssemblyInfo.cs
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.csproj.CoreCompileInputs.cache
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirt.5895A5F5.Up2Date
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.dll
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\refint\LojaVirtual.Infra.dll
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.pdb
+E:\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\ref\LojaVirtual.Infra.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.csproj.AssemblyReference.cache
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.AssemblyInfoInputs.cache
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.AssemblyInfo.cs
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.csproj.CoreCompileInputs.cache
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\refint\LojaVirtual.Infra.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.pdb
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.deps.json
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.pdb
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Domain.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Domain.pdb
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirt.5895A5F5.Up2Date
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\ref\LojaVirtual.Infra.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.runtimeconfig.json
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.genruntimeconfig.cache
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.runtimeconfig.json
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.genruntimeconfig.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.deps.json
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.runtimeconfig.json
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Infra.pdb
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Domain.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\bin\Debug\net8.0\LojaVirtual.Domain.pdb
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.csproj.AssemblyReference.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.AssemblyInfoInputs.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.AssemblyInfo.cs
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.csproj.CoreCompileInputs.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirt.5895A5F5.Up2Date
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\refint\LojaVirtual.Infra.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.pdb
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\LojaVirtual.Infra.genruntimeconfig.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtual.Infra\obj\Debug\net8.0\ref\LojaVirtual.Infra.dll

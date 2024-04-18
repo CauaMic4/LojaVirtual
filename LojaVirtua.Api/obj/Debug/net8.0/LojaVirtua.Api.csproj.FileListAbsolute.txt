@@ -1,0 +1,396 @@
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.exe
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.deps.json
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.runtimeconfig.json
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.dll
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.pdb
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.AssemblyReference.cache
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfoInputs.cache
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfo.cs
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.CoreCompileInputs.cache
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.LojaVirtua.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.LojaVirtua.Api.props
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LojaVirtua.Api.props
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LojaVirtua.Api.props
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\scopedcss\bundle\LojaVirtua.Api.styles.css
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirt.89DE7BBE.Up2Date
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.dll
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\refint\LojaVirtua.Api.dll
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.pdb
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.genruntimeconfig.cache
+C:\Users\cwbdi\OneDrive\Documentos\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\ref\LojaVirtua.Api.dll
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.AssemblyReference.cache
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfoInputs.cache
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfo.cs
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.CoreCompileInputs.cache
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.dll
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\refint\LojaVirtua.Api.dll
+E:\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.pdb
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.AssemblyReference.cache
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfoInputs.cache
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfo.cs
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.CoreCompileInputs.cache
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\refint\LojaVirtua.Api.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.pdb
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.exe
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.deps.json
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.runtimeconfig.json
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.pdb
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Domain.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Infra.dll
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Domain.pdb
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Infra.pdb
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.LojaVirtua.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.LojaVirtua.Api.props
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LojaVirtua.Api.props
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LojaVirtua.Api.props
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\scopedcss\bundle\LojaVirtua.Api.styles.css
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirt.89DE7BBE.Up2Date
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.genruntimeconfig.cache
+C:\Users\cwbdi\Downloads\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\ref\LojaVirtua.Api.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\appsettings.json
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.exe
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.deps.json
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.runtimeconfig.json
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.pdb
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Azure.Core.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Domain.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Infra.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Domain.pdb
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Infra.pdb
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.AssemblyReference.cache
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfoInputs.cache
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfo.cs
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.CoreCompileInputs.cache
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.LojaVirtua.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.LojaVirtua.Api.props
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LojaVirtua.Api.props
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LojaVirtua.Api.props
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\scopedcss\bundle\LojaVirtua.Api.styles.css
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirt.89DE7BBE.Up2Date
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\refint\LojaVirtua.Api.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.pdb
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.genruntimeconfig.cache
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\ref\LojaVirtua.Api.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Humanizer.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos Insight\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\appsettings.json
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.exe
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.deps.json
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.runtimeconfig.json
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtua.Api.pdb
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Azure.Core.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Humanizer.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Domain.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Infra.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Domain.pdb
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\bin\Debug\net8.0\LojaVirtual.Infra.pdb
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.AssemblyReference.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfoInputs.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.AssemblyInfo.cs
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.csproj.CoreCompileInputs.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.LojaVirtua.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.LojaVirtua.Api.props
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LojaVirtua.Api.props
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LojaVirtua.Api.props
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\scopedcss\bundle\LojaVirtua.Api.styles.css
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirt.89DE7BBE.Up2Date
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\refint\LojaVirtua.Api.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.pdb
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.genruntimeconfig.cache
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\ref\LojaVirtua.Api.dll

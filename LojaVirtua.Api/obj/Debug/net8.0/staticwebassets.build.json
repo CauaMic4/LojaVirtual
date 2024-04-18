@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a6YGon71sOiGulZ7vHpWoeAGHjHTifVle4k3S/hpNRw=",
+  "Source": "LojaVirtua.Api",
+  "BasePath": "_content/LojaVirtua.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
