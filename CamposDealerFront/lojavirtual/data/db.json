@@ -1,0 +1,24 @@
+{
+  "clients": [
+    {
+      "idCliente":1,
+      "nmCliente":"Cli1",
+      "Cidade":"Cidade1"
+    },
+    {
+      "idCliente":2,
+      "nmCliente":"Cli2",
+      "Cidade":"Cidade2"
+    },
+    {
+      "idCliente":3,
+      "nmCliente":"Cli3",
+      "Cidade":"Cidade3"
+    },      
+    {
+      "idCliente":4,
+      "nmCliente":"Cli4",
+      "Cidade":"Cidade4"
+    }
+  ]
+}
