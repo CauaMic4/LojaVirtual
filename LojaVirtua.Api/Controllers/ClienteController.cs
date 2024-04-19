@@ -37,7 +37,7 @@ namespace LojaVirtua.Api.Controllers
             return Ok();
         }
 
-        [HttpPut("EditClient/{IdCliente}")]
+        [HttpPut("EditClient/{IdCliente:int}")]
         public async Task<IActionResult> EditClient(int IdCliente)
         {
             if (ModelState.IsValid)
@@ -48,10 +48,13 @@ namespace LojaVirtua.Api.Controllers
                 return Ok(model);
             }
             else
+            {
                 return BadRequest("Erro na edição");
+
+            }
         }
 
-        [HttpDelete("DeleteClient/{IdCliente}")]
+        [HttpDelete("DeleteClient/{IdCliente:int}")]
         public async Task<IActionResult> DeleteClient(int IdCliente)
         {
             var model = await _context.Cliente.FindAsync(IdCliente);

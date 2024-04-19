@@ -394,3 +394,4 @@ E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\refint\LojaVirt
 E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.pdb
 E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.genruntimeconfig.cache
 E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\ref\LojaVirtua.Api.dll
+E:\Teste\LojaVirtual\LojaVirtual\LojaVirtua.Api\obj\Debug\net8.0\LojaVirtua.Api.sourcelink.json
